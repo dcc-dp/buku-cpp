@@ -25,7 +25,9 @@
 ## Input / Output
 <!-- tolong diisi -->
 ## Seleksi
-<!-- tolong diisi -->
+<!-- 
+if, if jamak, 
+-->
 ## Perulangan
 <!-- tolong diisi -->
 ## Array
