@@ -33,10 +33,15 @@ Kita ingin menjumlahkan nilai dari variabel x dan y, maka kita bisa menggunakan 
 <!-- tolong diisi -->
 ## Seleksi
 <!-- 
-if, if jamak, 
 -->
 ## Perulangan
 <!-- tolong diisi -->
+#include<iostream.h>
+void main(){
+for(int i=1;i<=5;i++){
+cout<<"*";
+}
+}
 ## Array
 <!-- tolong diisi -->
 ## Function
