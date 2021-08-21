@@ -21,7 +21,7 @@ halooooo
 
 ## Algoritma
 
-<!-- tolong diisi -->
+Algoritma adalah langkah penyelesaian suatu masalah
 
 ## Variabel & Type Data
 
@@ -51,6 +51,7 @@ halooooo
 
 <!-- tolong diisi -->
 
+## Seleksi
 
 
 
