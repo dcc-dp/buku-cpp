@@ -16,18 +16,24 @@
 
 ## Pengenalan C++
 
+>
+
+## Algoritma
+
+Algoritma adalah langkah penyelesaian suatu masalah
+
 haloooo
 halooooo
 
 ## Algoritma
 
-<!-- tolong diisi -->
+
 
 ## Variabel & Type Data
 
-<!-- tolong diisi -->
 
 ## Operator
+
 
 
 1.	Aritmatika (+,-,/,*,mod,div) <br>
@@ -49,9 +55,11 @@ halooooo
 
 ## Input / Output
 
-<!-- tolong diisi -->
+
+## Seleksi
 
 
+## Perulangan
 
 
 merupakan tempat penyeleksian suatu kondisi dalam pemrograman
@@ -59,8 +67,6 @@ merupakan tempat penyeleksian suatu kondisi dalam pemrograman
 ## Perulangan
 
 Perulangan terdiri dari IF ELSE dan SWITCH CASE
-
-<!-- tolong diisi -->
 
 
 ## Array
