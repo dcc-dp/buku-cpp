@@ -15,7 +15,7 @@
 <!-- vim-markdown-toc -->
 
 ## Pengenalan C++ 
-<!-- tolong diisi -->
+C++ merupakan bahasa pemrograman
 ## Algoritma
 <!-- tolong diisi -->
 ## Variabel & Type Data
