@@ -27,7 +27,7 @@
 ## Seleksi
 <!-- tolong diisi -->
 ## Perulangan
-<!-- tolong diisi -->
+<!-- saya sudah kerja perulangan-->
 ## Array
 <!-- tolong diisi -->
 ## Function
