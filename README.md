@@ -18,6 +18,7 @@
 <!-- tolong diisi -->
 ## Algoritma
 <!-- tolong diisi -->
+Algoritma adalah proses penyelesaian masalah secara sistematis dan logis
 ## Variabel & Type Data
 <!-- tolong diisi -->
 ## Operator
