@@ -21,7 +21,14 @@
 ## Variabel & Type Data
 <!-- tolong diisi -->
 ## Operator
-<!-- tolong diisi -->
+Operator adalah sebuah simbol…
+
+Simbol yang digunakan untuk melakukan operasi tertentu.
+
+Misalnya:
+
+Kita ingin menjumlahkan nilai dari variabel x dan y, maka kita bisa menggunakan operator penjumlahan (+).
+
 ## Input / Output
 <!-- tolong diisi -->
 ## Seleksi
