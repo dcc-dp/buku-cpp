@@ -27,7 +27,7 @@
 ## Seleksi
 <!-- tolong diisi -->
 ## Perulangan
-<!-- saya sudah kerja perulangan-->
+<!-- Perulangan terdiri dari IF ELSE dan SWITCH CASE-->
 ## Array
 <!-- tolong diisi -->
 ## Function
