@@ -58,7 +58,10 @@ merupakan tempat penyeleksian suatu kondisi dalam pemrograman
 
 ## Perulangan
 
+Perulangan terdiri dari IF ELSE dan SWITCH CASE
+
 <!-- tolong diisi -->
+
 
 ## Array
 
