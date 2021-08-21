@@ -29,6 +29,6 @@
 ## Perulangan
 <!-- tolong diisi -->
 ## Array
-<!-- tolong diisi -->
+ajshdajshd
 ## Function
-<!-- tolong diisi -->
+i<!--sdfdskjfsjfksjfksjfkdj fungsi ini haryhidayatharsono -->
