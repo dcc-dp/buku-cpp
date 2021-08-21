@@ -14,6 +14,9 @@
 
 <!-- vim-markdown-toc -->
 
+
+## Pengenalan C++ 
+C++ merupakan bahasa pemrograman
 ## Pengenalan C++
 
 >
