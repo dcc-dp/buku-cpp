@@ -16,8 +16,7 @@
 
 ## Pengenalan C++
 
-haloooo
-halooooo
+ALGORITMA ADALAH CARA MENYELESAIKAN MASALAH SECARA SISTEMATIS
 
 ## Algoritma
 
