@@ -1,27 +1,34 @@
-# Buku C++ 
+# Buku C++
 
 <!-- vim-markdown-toc GFM -->
 
-* [Pengenalan C++](#pengenalan-c)
-* [Algoritma](#algoritma)
-* [Variabel & Type Data](#variabel--type-data)
-* [Operator](#operator)
-* [Input / Output](#input--output)
-* [Seleksi](#seleksi)
-* [Perulangan](#perulangan)
-* [Array](#array)
-* [Function](#function)
+- [Pengenalan C++](#pengenalan-c)
+- [Algoritma](#algoritma)
+- [Variabel & Type Data](#variabel--type-data)
+- [Operator](#operator)
+- [Input / Output](#input--output)
+- [Seleksi](#seleksi)
+- [Perulangan](#perulangan)
+- [Array](#array)
+- [Function](#function)
 
 <!-- vim-markdown-toc -->
 
-## Pengenalan C++ 
-<!-- tolong diisi -->
+## Pengenalan C++
+
+haloooo
+halooooo
+
 ## Algoritma
+
 <!-- tolong diisi -->
-Algoritma adalah proses penyelesaian masalah secara sistematis dan logis
+
 ## Variabel & Type Data
+
 <!-- tolong diisi -->
+
 ## Operator
+
 
 1.	Aritmatika (+,-,/,*,mod,div) <br>
     <pre>Aritmatika : Numerik + Numerik = Numerik.
@@ -39,13 +46,24 @@ Algoritma adalah proses penyelesaian masalah secara sistematis dan logis
 4.	Assigment (<-)
     Assigment adalah pemberian nilai ke suatu variable.
 
+
 ## Input / Output
+
 <!-- tolong diisi -->
-## Seleksi
+
+
+
+
 merupakan tempat penyeleksian suatu kondisi dalam pemrograman
+
 ## Perulangan
+
 <!-- tolong diisi -->
+
 ## Array
+
 <!-- tolong diisi -->
+
 ## Function
+
 <!-- tolong diisi -->
