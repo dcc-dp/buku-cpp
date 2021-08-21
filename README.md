@@ -38,6 +38,10 @@ Algoritma adalah langkah penyelesaian suatu masalah
 
 <!-- tolong diisi -->
 
+<!--
+if, if jamak,
+-->
+
 ## Perulangan
 
 <!-- tolong diisi -->
