@@ -41,7 +41,7 @@
 ## Input / Output
 <!-- tolong diisi -->
 ## Seleksi
-<!-- tolong diisi -->
+merupakan tempat penyeleksian suatu kondisi dalam pemrograman
 ## Perulangan
 <!-- tolong diisi -->
 ## Array
