@@ -21,15 +21,7 @@
 ## Variabel & Type Data
 <!-- tolong diisi -->
 ## Operator
-
-<img 
-  src="https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.id.w3ki.com%2Fcplusplus%2Fbitwise_operators.html&psig=AOvVaw2yBDQsEtsCnGDsC1qB9rPj&ust=1629632857924000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOib9dKFwvICFQAAAAAdAAAAABAD" 
-  alt="operator"
-  style="margin-top:20px;margin-right:13px"
-  align="left" 
-  height="400px"
-/>
-
+<!-- tolong diisi -->
 ## Input / Output
 <!-- tolong diisi -->
 ## Seleksi
