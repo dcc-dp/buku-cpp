@@ -22,19 +22,19 @@
 <!-- tolong diisi -->
 ## Operator
 
-1.	Aritmatika (+,-,/,*,mod,div)
-    Aritmatika : Numerik + Numerik = Numerik.
+1.	Aritmatika (+,-,/,*,mod,div) <br>
+    <pre>Aritmatika : Numerik + Numerik = Numerik.
     Mod adalah sisa pembagi bilangan bulat.
-    Div adalah hasil bagi bilangan bulat.
+    Div adalah hasil bagi bilangan bulat.</pre>
 2.	Relasi (>,<,>=,<=,=,<>)
-    Relasi : Numerik atau Alfanumerik + Numerik atau Alfanumerik = Boolean.
+    <pre>Relasi : Numerik atau Alfanumerik + Numerik atau Alfanumerik = Boolean.</pre>
 3.	Logika (And,Or,Not,Xor)
-    Logika adalah Boolean + Boolean = Boolean.
-    A	B	A AND B	A OR B	NOT A	NOT B	A XOR B
-    T	T	T	T	F	F	F
-    T	F	F	T	F	T	T
-    F	T	F	T	T	F	T
-    F	F	F	F	T	T	F
+    <pre>Logika adalah Boolean + Boolean = Boolean.<br>
+    A	B	A AND B	A OR B	NOT A	NOT B	A XOR B<br>
+    T	T	T	T	F	F	F<br>
+    T	F	F	T	F	T	T<br>
+    F	T	F	T	T	F	T<br>
+    F	F	F	F	T	T	F</pre>
 4.	Assigment (<-)
     Assigment adalah pemberian nilai ke suatu variable.
 
